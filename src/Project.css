@@ -1,0 +1,16 @@
+.project{
+    display: flex;
+    flex-direction: column;
+    
+
+}
+.project__name{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    padding: 10px 20px;
+}
+.projects >img{
+    width:320px ;
+    padding: 10px 10px;
+}

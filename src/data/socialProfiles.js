@@ -6,7 +6,7 @@ import twitterIcon from '../assets/twitter_icon.png';
 const SOCIAL_PROFILES = [
     {
         id:1,
-        link: 'mailto:ghimiresashita@gmail.com',
+        link: 'mailto:codersstartup@gmail.com',
         image: emailIcon
     },
     {
